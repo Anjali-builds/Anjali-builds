@@ -1,3 +1,5 @@
+![Anjali Portfolio Banner](./profile-banner.png)
+
 <div align="center">
 
 #  ANJALI
