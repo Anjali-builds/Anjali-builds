@@ -1,90 +1,17 @@
+Hi 👋, I'm Anjali
+
+# 💫 About Me:
+🔭 Building creative web & design projects<br>🌱 Learning, experimenting & improving every day<br>🤝 Open to creative collaborations<br>💬 Ask me about design, websites & ideas<br>⚡ I turn ideas into visuals
 
 
-<div align="center">
-
-#  ANJALI
-
-### Multidisciplinary Designer
-
-**Branding · Editorial · Fashion · Digital · Visual Storytelling**
-
-</div>
-
----
-
-## ✦ About Me
-
-I’m Anjali, a multidisciplinary designer exploring branding, editorial design, fashion, digital experiences and visual storytelling.
-
-I enjoy turning ideas into thoughtful visual identities where typography, colour, imagery and layout work together with purpose.
+# 💻 Tech Stack:
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Anjali-builds&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Anjali-builds&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anjali-builds&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Anjali-builds&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ✦ Selected Work
-
-### ◼ KAAM
-**Digital Project**
-
-A digital design project combining visual identity, layout and interactive elements to create a clear and engaging experience.
-
-🌐 Live Website
-https://anjali-builds.github.io/KAAM/
-
-📱Mobile App
-https://www.figma.com/design/igjgsXNzgcAarLlRicmP8I/KAAM-App?t=30bK4aS3votyIOaP-1
-
----
-
-
-### ◼ THE EDIT
-**Editorial & Fashion**
-
-A visual editorial project exploring fashion, composition, typography and storytelling through a refined visual language.
-
-🌐 Live Website
-https://anjali-builds.github.io/THE-EDIT/
-
-📄 Portfolio
-
----
-
-### ◼ FORM WISE
-**Web Design**
-
-A clean and purposeful web design project focused on layout, visual hierarchy, usability and a strong digital identity.
-
-🌐 Live Website
-https://anjali-builds.github.io/FORMWISE/
-
----
-
-
-## 🛠️ Tools & Technologies
-
-**Adobe Creative Suite**  
-Photoshop · Illustrator · InDesign · Lightroom · Premiere Pro · After Effects
-
-**Design & Digital**  
-Figma · Adobe XD · HTML/CSS · Bootstrap · JavaScript · Dreamweaver · VS Code
-
-**Exploring**  
-Generative AI · Creative Digital Workflows
-
----
-
-## 🧭 My Design Approach
-
-**Observe → Define → Create → Refine**
-
-I believe good design is more than making something visually appealing.  
-It is about creating a clear visual language that communicates an idea, connects with people and leaves a lasting impression.
-
----
-
-<div align="center">
-
-### ✦ Design · Create · Connect ✦
-
-*Thank you for exploring my work.*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
