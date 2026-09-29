@@ -1,4 +1,9 @@
-Hi 👋, I'm Anjali
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anjali
+===============================================================================================================================
+
+Graphic Designer | UI/UX Designer | Front-End Learner
+-----------------------------------------------------
+
 
 # 💫 About Me:
 🔭 Building creative web & design projects<br>🌱 Learning, experimenting & improving every day<br>🤝 Open to creative collaborations<br>💬 Ask me about design, websites & ideas<br>⚡ I turn ideas into visuals
@@ -12,6 +17,6 @@ Hi 👋, I'm Anjali
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anjali-builds&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Anjali-builds&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
